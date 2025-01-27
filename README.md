@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I always refer laughing 😅**
 
+- ✨ **Its all about 1% Everyday **
+
 
 
 <h3 align="left">Connect with me:</h3>
