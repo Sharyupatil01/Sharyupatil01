@@ -20,6 +20,8 @@
 
 - ✨ **Its all about 1% Everyday**
 
+- https://folios2p.netlify.app/
+
 
 
 <h3 align="center">Connect with me:</h3>
