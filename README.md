@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I always refer laughing 😅**
 
-- ✨ **Its all about 1% Everyday **
+- ✨ **Its all about 1% Everyday**
 
 
 
