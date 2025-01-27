@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center"><b>Hi 👋, I'm Sharyu Patil</b></h1>
+<h1 align="center" style="font-style: italic;">Hi 👋, I'm Sharyu Patil</h1>
 <h3 align="center">A passionate developer with keen interest in Data Structure and Algorithm.🚀👩‍💻</h3>
 
 - 🔭 I’m currently working on **Advance Web Applications**
