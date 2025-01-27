@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharyu Patil</h1>
-<h3 align="center">A passionate developer with keen interest in Data Structure and Algorithm.</h3>
+<h3 align="center">A passionate developer with keen interest in Data Structure and Algorithm.🚀👩‍💻</h3>
 
 - 🔭 I’m currently working on **Advance Web Applications**
 
