@@ -8,11 +8,9 @@
 <h2 align="center">https://codolio.com/profile/psharyu01</h2>
 
 
-- 🔭 I’m currently working on **Advance Web Applications**
+
 
 - 🌱 I’m currently learning **Full stack web development**
-
-- 👯 I’m looking to collaborate on **Android,MERN**
 
 - 💬 Ask me about **DSA,Web development**
 
