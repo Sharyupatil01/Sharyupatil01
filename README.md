@@ -6,6 +6,8 @@
 <h1 align="center" style="font-style: italic;">Hi 👋, I'm Sharyu Patil</h1>
 <h3 align="center">Pre final year student🚀👩‍💻</h3>
 <h2 align="center">https://codolio.com/profile/psharyu01</h2>
+
+
 - 🔭 I’m currently working on **Advance Web Applications**
 
 - 🌱 I’m currently learning **Full stack web development**
@@ -20,6 +22,7 @@
 
 - ✨ **Its all about 1% Everyday**
 
+My Protofolio 
 - https://folios2p.netlify.app/
 
 
