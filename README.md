@@ -3,7 +3,8 @@
 </p>
 
 
-<h1 align="center" style="font-style: italic;"> Hey! 👩‍💻 I'm Sharyu – building, learning, and coding my way through tech.</h1>
+<h1 align="center" style="font-style: italic;"> Hey! 👩‍💻</h1>
+<h1 align="center" style="font-style:italic;">I'm Sharyu – building, learning, and coding my way through tech</h1>
 <h3 align="center">Pre final year student🚀👩‍💻</h3>
 <h2 align="center">https://codolio.com/profile/psharyu01</h2>
 
