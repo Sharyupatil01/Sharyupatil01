@@ -61,8 +61,30 @@
 
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharyupatil01&show_icons=true&locale=en&layout=compact" alt="sharyupatil01" /></p>
+<div align="center">
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharyupatil01&show_icons=true&locale=en&layout=compact" alt="sharyupatil01" />
+</p>
+
+</div>
+
+
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Still%20Building-blue?style=for-the-badge&logo=construction)
+
+</div>
+
+<div align="center">
+
+
+![Under Construction](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
+
+</div>
+
+<div align="center">
 
 <!--
 **Sharyupatil01/Sharyupatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
