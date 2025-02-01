@@ -12,26 +12,33 @@
 
 
 
+<div align="center">
 
-- 🌱 I’m currently learning **Full stack web development**
+ 🌱 Currently learning **Full Stack Web Development**  
+ <br>
+ 💬 Ask me about **DSA & Web Development**  
+ <br>
+ 📫 Reach me at **sharyu2701@gmail.com**  
+ <br>
+ ⚡ Fun fact: **I always prefer laughing 😅**  
+ <br>
+ ✨ **It's all about 1% improvement every day!**  
 
-- 💬 Ask me about **DSA,Web development**
+</div>
 
-- 📫 How to reach me **sharyu2701@gmail.com**
+<div align="center">
+  My Protofolio 
+  https://folios2p.netlify.app/
+</div>
 
-- ⚡ Fun fact **I always refer laughing 😅**
 
-- ✨ **Its all about 1% Everyday**
-
-My Protofolio 
-- https://folios2p.netlify.app/
-
+<br>
 
 <div align="center">
 
 | 📌 **Quote** |
 |:-----------:|
-| *"THE TRUE MAGIC ISN'T IN THE DREAMING , IT'S IN WHAT YOU CARRY INTO THE DAYLIGHT."*  |
+| *"The true magic isn't in the dream, it's in what you carry into the daylight."*  |
 
 </div>
 
