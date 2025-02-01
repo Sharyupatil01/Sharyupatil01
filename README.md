@@ -11,6 +11,8 @@
 
 
 
+
+
 - 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **DSA,Web development**
@@ -25,6 +27,15 @@ My Protofolio
 - https://folios2p.netlify.app/
 
 
+<div align="center">
+
+| 📌 **Quote** |
+|:-----------:|
+| *"THE TRUE MAGIC ISN'T IN THE DREAMING , IT'S IN WHAT YOU CARRY INTO THE DAYLIGHT."*  |
+
+</div>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <br>
@@ -34,6 +45,8 @@ My Protofolio
 <a href="https://auth.geeksforgeeks.org/user/sharyup01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharyup01" height="30" width="40" /></a>
 </p>
 <br>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <br>
