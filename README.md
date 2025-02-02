@@ -18,11 +18,7 @@
 
  🌱 Currently learning **Full Stack Web Development**  
  <br>
- 💬 Ask me about **DSA & Web Development**  
- <br>
  📫 Reach me at **sharyu2701@gmail.com**  
- <br>
- ⚡ Fun fact: **I always prefer laughing 😅**  
  <br>
  ✨ **It's all about 1% improvement every day!**  
 
