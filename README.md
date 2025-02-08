@@ -8,7 +8,6 @@
 
 
 <h3 align="center">Pre final year student🚀👩‍💻</h3>
-<h3 align="center">https://codolio.com/profile/psharyu01</h3>
 
 
 
@@ -22,11 +21,6 @@
  <br>
  ✨ **It's all about 1% improvement every day!**  
 
-</div>
-
-<div align="center">
-  My Protofolio 
-  https://folios2p.netlify.app/
 </div>
 
 
