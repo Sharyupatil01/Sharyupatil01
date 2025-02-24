@@ -88,20 +88,6 @@
 
 
 
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Still%20Building-blue?style=for-the-badge&logo=construction)
-
-</div>
-
-<div align="center">
-
-
-![Under Construction](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
-
-</div>
-
-<div align="center">
 
 <!--
 **Sharyupatil01/Sharyupatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
