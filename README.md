@@ -10,20 +10,6 @@
 <h3 align="center">Pre final year student🚀👩‍💻</h3>
 
 
-
-
-
-<div align="center">
-
- 🌱 Currently learning **Full Stack Web Development**  
- <br>
- 📫 Reach me at **sharyu2701@gmail.com**  
- <br>
- ✨ **It's all about 1% improvement every day!**  
-
-</div>
-
-
 <br>
 
 <div align="center">
@@ -88,18 +74,3 @@
 
 
 
-
-<!--
-**Sharyupatil01/Sharyupatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
