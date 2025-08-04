@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center"> final year student🚀👩‍💻</h3>
+<h3 align="center"> Final Year Student🚀👩‍💻</h3>
 
 
 <br>
