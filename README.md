@@ -7,21 +7,6 @@
 </p>
 
 
-<h3 align="center"> Final Year Student🚀👩‍💻</h3>
-
-
-<br>
-
-<div align="center">
-
-| 📌 **Quote** |
-|:-----------:|
-| *"The true magic isn't in the dream, it's in what you carry into the daylight."*  |
-
-</div>
-
-
-
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
