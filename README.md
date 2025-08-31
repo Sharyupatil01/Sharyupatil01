@@ -49,10 +49,9 @@
 
 
 <br>
-<div align="center">
-
+<div >
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharyupatil01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sharyupatil01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharyupatil01&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=20" alt="sharyupatil01" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharyupatil01&show_icons=true&locale=en&theme=tokyonight" alt="sharyupatil01" /></p>
