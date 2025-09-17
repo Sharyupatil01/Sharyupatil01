@@ -15,21 +15,39 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=java,cpp,py&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind" ></td>
+  <td><strong>Frontend Development</strong></td>
+  <td>
+    <img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+	   <img height=40 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mui.svg" alt="Material UI" />
+  </td>
 </tr>
 <tr>
+  <td><strong>Backend Development</strong></td>
+  <td>
+    <img height=40 src="https://skillicons.dev/icons?i=express,java" />
+  </td>
+</tr>
+
+<tr>
 	<td><strong>Design & UI</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=notion&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=notion,figma&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"></td>
 </tr>
 <tr>
+  <td><strong>Deployment</strong></td>
+  <td>
+    <img height=40 src="https://skillicons.dev/icons?i=vercel,netlify" />
+    <img height=40 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="Render" />
+  </td>
+</tr>
+<tr>
 	<td><strong>Version Control</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=github,git&theme=dark"></td>
 </tr>
+
 
 </table>
 
