@@ -1,8 +1,12 @@
 
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=056cb9&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+🚀,+I'm+Sharyu;+An+aspiring+Software+Developer+🌟;A+Competitive+Programmer+💻;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=32&duration=3500&pause=1000&color=056CB9&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Sharyu+👋;Building+Real-World+Projects+⚡;Learning+and+Growing+Everyday+🌱;Turning+Ideas+into+Code+💡;Exploring+the+World+of+Tech+🌍;Competitive+Programmer+💻;Always+Learning+🚀" />
 </p>
+
+
 
 
 
