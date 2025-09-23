@@ -90,7 +90,44 @@
 </td>
 </tr>
 </table>
+<div align="center">
+
+
+	
 </div>
+
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" style="vertical-align: middle;" />
+  &nbsp;&nbsp;&nbsp;
+  <strong>“I code in the mornings like a perfectionist and at night like a caffeine-fueled wizard.”</strong>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" style="vertical-align: middle;" />
+</p>
+
+<h2 align="center"> Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharyupatil01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sharyu2701@egmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://folios2p.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sharyu01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  &nbsp;
+ 
+</p>
 
 
 <div align="center">
