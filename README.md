@@ -101,11 +101,11 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" style="vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;
   <strong>“I code in the mornings like a perfectionist and at night like a caffeine-fueled wizard.”</strong>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="150" style="vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" style="vertical-align: middle;" />
 </p>
 
 <h2 align="center"> Connect with Me</h2>
