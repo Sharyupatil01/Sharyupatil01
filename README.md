@@ -97,6 +97,13 @@
 	
 </div>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharyupatil01&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+
+
 
 
 
