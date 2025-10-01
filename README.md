@@ -33,7 +33,7 @@
 	</tr>
 	<tr>
 	  <td><strong>Deployment</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=vercel,netlify"/> 
+	  <td><img height=40 src="https://skillicons.dev/icons?i=vercel,netlify,render"/> 
 	  <img height=40 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg"/></td>
 	</tr>
 	<tr>
