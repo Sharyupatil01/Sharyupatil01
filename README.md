@@ -165,9 +165,12 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/sharyu01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-0A3434?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   &nbsp;
+  <a href="https://vercel.com/sharyu-patil-s-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
  
 </p>
 
