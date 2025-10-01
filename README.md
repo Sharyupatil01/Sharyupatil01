@@ -73,6 +73,40 @@
 </tr>
 </table>
 
+<div align="center">
+
+## 🌐 Frontend Projects Live Demo
+
+Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Vercel</strong>
+<br>
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Live Demo</th>
+  </tr>
+  <tr>
+    <td><strong>T-Course</strong></td>
+    <td>A responsive e-learning platform with course listings, search, and interactive UI.</td>
+    <td><a href="https://t-course-gamma.vercel.app/">🔗</a></td>
+  </tr>
+  <tr>
+    <td><strong>Hub Website</strong></td>
+    <td>A portfolio hub website displaying multiple projects with clean design and smooth navigation.</td>
+    <td><a href="https://hub-website-sigma.vercel.app/">🔗</a></td>
+  </tr>
+  <tr>
+    <td><strong>Bharat Today</strong></td>
+    <td>A news web application with latest updates, category filters, and modern interface.</td>
+    <td><a href="https://bharat-today.vercel.app/">🔗</a></td>
+  </tr>
+</table>
+
+</div>
+<br>
+
+
 
 
 
