@@ -171,6 +171,12 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
   <a href="https://vercel.com/sharyu-patil-s-projects" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
+  &nbsp;
+   <a href="https://dashboard.render.com/web/srv-d324nnjuibrs739i2v40" target="_blank">
+    <img src="https://img.shields.io/badge/Render-1D00D2?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  </a>
+  
+  
  
 </p>
 
