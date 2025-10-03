@@ -125,7 +125,7 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
 </tr>
 </table>
 <div align="center">
-<img width="497" height="240" alt="Screenshot 2025-09-23 085037" src="https://github.com/user-attachments/assets/f1ce7d66-2865-4f0b-a914-334a5dd03c35" />
+
 
 
 	
@@ -174,6 +174,10 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
   &nbsp;
    <a href="https://dashboard.render.com/web/srv-d324nnjuibrs739i2v40" target="_blank">
     <img src="https://img.shields.io/badge/Render-1D00D2?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  </a>
+   &nbsp;
+   <a href="https://medium.com/@sharyu2701" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-1E0D2?style=for-the-badge&logo=medium&logoColor=white" alt="Render"/>
   </a>
   
   
