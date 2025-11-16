@@ -7,6 +7,7 @@
 
 
 
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -86,6 +87,11 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
     <th>Description</th>
     <th>Live Demo</th>
   </tr>
+	 <tr>
+    <td><strong>Portfolio</strong></td>
+    <td>View my portfolio.</td>
+    <td><a href="https://sharyu-portfolio.vercel.app/">🔗</a></td>
+  </tr>
   <tr>
     <td><strong>T-Course</strong></td>
     <td>A responsive e-learning platform with course listings, search, and interactive UI.</td>
@@ -152,10 +158,11 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/sharyupatil01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;   
   <a href="mailto:sharyu2701@egmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
