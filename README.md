@@ -74,42 +74,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-## 🌐 Frontend Projects Live Demo
-
-Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Vercel</strong>
-<br>
-
-<table>
-  <tr>
-    <th>Project Name</th>
-    <th>Description</th>
-    <th>Live Demo</th>
-  </tr>
-	 <tr>
-    <td><strong>Portfolio</strong></td>
-    <td>View my portfolio.</td>
-    <td><a href="https://sharyu-portfolio.vercel.app/">🔗</a></td>
-  </tr>
-  <tr>
-    <td><strong>T-Course</strong></td>
-    <td>A responsive e-learning platform with course listings, search, and interactive UI.</td>
-    <td><a href="https://t-course-gamma.vercel.app/">🔗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Hub Website</strong></td>
-    <td>A portfolio hub website displaying multiple projects with clean design and smooth navigation.</td>
-    <td><a href="https://hub-website-sigma.vercel.app/">🔗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Bharat Today</strong></td>
-    <td>A news web application with latest updates, category filters, and modern interface.</td>
-    <td><a href="https://bharat-today.vercel.app/">🔗</a></td>
-  </tr>
-</table>
-
-</div>
 <br>
 
 
@@ -137,10 +101,6 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
 	
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharyupatil01&theme=onedark" alt="GitHub Trophies" />
-</p>
 
 
 
@@ -148,11 +108,11 @@ Showcasing some of my <strong>frontend projects</strong> deployed on <strong>Ver
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" style="vertical-align: middle;" />
+<i>Mindset </i>
+  
+  <strong>“ Reading my old code feels like reviewing someone else’s work — that’s how I know I’m growing as an engineer.”</strong>
   &nbsp;&nbsp;&nbsp;
-  <strong>“I code in the mornings like a perfectionist and at night like a caffeine-fueled wizard.”</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" style="vertical-align: middle;" />
+ 
 </p>
 
 <h2 align="center"> Connect with Me</h2>
