@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=42&duration=3500&pause=1000&color=056CB9&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Sharyu+👋;Building+Real-World+Projects+⚡;Learning+and+Growing+Everyday+🌱;Turning+Ideas+into+Code+💡;Exploring+the+World+of+Tech+🌍;Competitive+Programmer+💻;Always+Learning+🚀" />
-</p>
+<div align="center">
+<img width="1744" height="720" alt="carbon (4)" src="https://github.com/user-attachments/assets/1bec1659-6ac9-4fac-a068-83725575418d" />
+
+
+
+</div>
+
+<br>
+
+
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sharyupatil01&label=Profile%20views&color=0e75b6&style=flat" alt="Sharyupatil01" />
@@ -87,15 +94,21 @@
 <div align="center">
 
 
-### Github stats 
+### Github Stats 📈
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharyupatil01&theme=merko"/>
+
+	
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharyupatil01&theme=chartreuse_dark"  height="200em" />
   <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharyupatil01&theme=merko"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharyupatil01&theme=merko"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharyupatil01&theme=merko"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharyupatil01&theme=merko"/>
   <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharyupatil01&theme=merko"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharyupatil01&theme=merko&utcOffset=8"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharyupatil01&theme=merko"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharyupatil01&theme=merko&utcOffset=8"/>
+  <br></br>
+     <img src="https://github-trophies.vercel.app/?username=Sharyupatil01&theme=merko" />
+
+   
 </div>
 
 	
@@ -103,17 +116,6 @@
 
 
 
-
-
-
-
-<p align="center">
-<i>Mindset </i>
-  
-  <strong>“ Reading my old code feels like reviewing someone else’s work — that’s how I know I’m growing as an engineer.”</strong>
-  &nbsp;&nbsp;&nbsp;
- 
-</p>
 
 <h2 align="center"> Connect with Me</h2>
 
@@ -150,6 +152,10 @@
   
  
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
 
 
 <div align="center">
