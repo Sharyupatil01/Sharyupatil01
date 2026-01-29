@@ -81,22 +81,18 @@
 
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-<h3>📈 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=sharyupatil01&show_icons=true&locale=en&theme=tokyonight" alt="sharyupatil01" />
-</td>
 
-<td width="50%" valign="top" align="center">
-<h3>💻 Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharyupatil01&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=20" alt="sharyupatil01" />
-</td>
-</tr>
-</table>
+
+### Github stats 
 <div align="center">
-
-
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharyupatil01&theme=merko"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharyupatil01&theme=merko"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharyupatil01&theme=merko"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharyupatil01&theme=merko"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharyupatil01&theme=merko&utcOffset=8"/>
+</div>
 
 	
 </div>
