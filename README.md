@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=42&duration=3500&pause=1000&color=056CB9&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Sharyu+👋;Building+Real-World+Projects+⚡;Learning+and+Growing+Everyday+🌱;Turning+Ideas+into+Code+💡;Exploring+the+World+of+Tech+🌍;Competitive+Programmer+💻;Always+Learning+🚀" />
 </p>
+<!-- 👁️‍🗨️ Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sharyupatil01&label=Profile%20views&color=0e75b6&style=flat" alt="Sharyupatil01" />
+</p>
 
 
 
