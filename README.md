@@ -8,10 +8,62 @@
 <br>
 
 
-<!-- 👁️‍🗨️ Profile Views -->
-<p align="left">
+
+
+
+<div >
+  <h1>Hey there!  I'm Sharyu Patil</h1>
+	<p >
   <img src="https://komarev.com/ghpvc/?username=Sharyupatil01&label=Profile%20views&color=0e75b6&style=flat" alt="Sharyupatil01" />
+		<p align="center">
+  
+  <a href="https://www.linkedin.com/in/sharyupatil01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;   
+  <a href="mailto:sharyu2701@egmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://folios2p.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sharyu01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://vercel.com/sharyu-patil-s-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel"/>
+  </a>
+  &nbsp;
+   <a href="https://dashboard.render.com/web/srv-d324nnjuibrs739i2v40" target="_blank">
+    <img src="https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  </a>
+   &nbsp;
+   <a href="https://medium.com/@sharyu2701" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Render"/>
+  </a>
+  
+  
+ 
 </p>
+</p>
+<br></br>
+
+
+<p>
+   🔷A <b>fourth-year</b> engineering student and an aspiring <b><i>Software developer </i></b> passionate about learning and building real-world applications.<br/>
+   🔷Solved <b>800+ DSA problems</b> across platforms like <b>LeetCode , GeeksforGeeks , Codechef </b>and others.<br/>
+   🔷Actively strengthening my foundation in <b>Java, DSA, and backend development</b>.<br/>
+   🔷Write technical posts on <b>Medium</b>, simplifying system design concepts in easy-to-understand English.<br/>
+   🔷Actively share my learning journey on <b>LinkedIn</b> and enjoy solving real-world, people-centric problems.
+  
+</p>
+
+</div>
+<br>
+
 
 
 
@@ -68,8 +120,8 @@
   </li>
   <br/>
   <li>
-    <b> 💹 <a href="https://github.com/Sharyupatil01/finpilot-frontend" target="_blank"> Fin-Pilot</a></b>  
-    <br/>  FinPilot is an AI-powered financial planning assistant that helps users create personalized investment and savings strategies. This repository contains the frontend of the project, built with React, Material-UI, and TailwindCSS. <br>  <a href="https://finpilot-alpha.vercel.app/">Live</a> 
+    <b> 💹 <a href="https://github.com/Sharyupatil01/finpilot-frontend" target="_blank"> Fin-Pilot</a> | <a href="https://finpilot-alpha.vercel.app/">Live</a> </b>  
+    <br/>  FinPilot is an AI-powered financial planning assistant that helps users create personalized investment and savings strategies. This repository contains the frontend of the project, built with React, Material-UI, and TailwindCSS. <br>  
   </li>
 	
   <br/>
@@ -117,41 +169,8 @@
 
 
 
-<h2 align="center"> Connect with Me</h2>
 
-<p align="center">
 
-  <a href="https://www.linkedin.com/in/sharyupatil01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;   
-  <a href="mailto:sharyu2701@egmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://folios2p.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/sharyu01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0A3434?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://vercel.com/sharyu-patil-s-projects" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
-  &nbsp;
-   <a href="https://dashboard.render.com/web/srv-d324nnjuibrs739i2v40" target="_blank">
-    <img src="https://img.shields.io/badge/Render-1D00D2?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  </a>
-   &nbsp;
-   <a href="https://medium.com/@sharyu2701" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-1E0D2?style=for-the-badge&logo=medium&logoColor=white" alt="Render"/>
-  </a>
-  
-  
- 
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
