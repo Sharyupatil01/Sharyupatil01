@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1744" height="720" alt="carbon (4)" src="https://github.com/user-attachments/assets/1bec1659-6ac9-4fac-a068-83725575418d" />
+<img width="1744" height="720" alt="carbon (4)" src="https://github.com/Sharyupatil01/Sharyupatil01/blob/main/carbon%20(4).png" />
 
 
 
