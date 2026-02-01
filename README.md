@@ -1,7 +1,7 @@
 <div align="center">
 
+<img width="1854" height="784" alt="carbon (6)" src="https://github.com/user-attachments/assets/886509fe-a929-4d16-95ec-825cbf6d9770" />
 
-<img width="1744" height="620" alt="carbon (5)" src="https://github.com/user-attachments/assets/95ae3bce-7b76-4717-ac59-ddf752cb9670" />
 
 
 </div>
