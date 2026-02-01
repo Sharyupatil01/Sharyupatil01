@@ -11,6 +11,7 @@
 
 
 
+
 <div >
   <h1>Hey there!  I'm Sharyu Patil</h1>
 	<p >
@@ -139,6 +140,37 @@
 
 <br>
 
+<h2 align="center">Coding Profiles 👩‍💻</h2>
+<h3 align="center">
+  Check overall Coding Profiles on :
+  <i><a href="https://codolio.com/profile/psharyu01" target="_blank">Codolio</a></i>
+</h3>
+
+
+
+
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>LeetCode</h3>
+      <img src="https://leetcard.jacoblin.cool/sharyu01?theme=dark&font=Karma&ext=heatmap" />
+    </td>
+    <td align="center">
+      <h3>GeeksforGeeks</h3>
+      <img src="https://gfgstatscard.vercel.app/sharyup01" />
+    </td>
+    
+  </tr>
+</table>
+
+
+
+
+	
+
+
 
 
 
@@ -165,6 +197,8 @@
 
 	
 </div>
+
+
 
 
 
