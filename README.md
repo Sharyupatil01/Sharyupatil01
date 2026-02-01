@@ -54,8 +54,8 @@
 
 
 <p>
-   🔷A <b>fourth-year</b> engineering student and an aspiring <b><i>Software developer </i></b> passionate about learning and building real-world applications.<br/>
-   🔷Solved <b>800+ DSA problems</b> across platforms like <b>LeetCode , GeeksforGeeks , Codechef </b>and others.<br/>
+   🔷A <b>fourth-year</b> engineering student and an aspiring <b>Software developer </b> passionate about learning and building real-world applications.<br/>
+   🔷Solved <b>800+ DSA problems</b> across platforms like <b><a href="https://leetcode.com/u/sharyu01/" target= "_blank">Leetcode</a> , <a href="https://www.geeksforgeeks.org/profile/sharyup01" target="_blank">GeeksforGeeks</a> , <a href="https://www.codechef.com/users/psharyu01" target="_blank">Codechef</a> </b>and others.<br/>
    🔷Actively strengthening my foundation in <b>Java, DSA, and backend development</b>.<br/>
    🔷Write technical posts on <b>Medium</b>, simplifying system design concepts in easy-to-understand English.<br/>
    🔷Actively share my learning journey on <b>LinkedIn</b> and enjoy solving real-world, people-centric problems.
@@ -69,74 +69,60 @@
 
 
 
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-5A3EE6?style=for-the-badge&logo=render&logoColor=white)
 
 
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-<h3 align="center">⚡ Tech Stack</h3>
-<div align="center">
-<table>
-	<tr>
-	<td><strong>Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,py&theme=dark"></td>
-	</tr>
-	<tr>
-	  <td><strong>Frontend</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/> 
-	  <img height=40 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mui.svg"/></td>
-	</tr>
-	<tr>
-	  <td><strong>Backend</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=express,java"/></td>
-	</tr>
-	<tr>
-	  <td><strong>Databases</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/></td>
-	</tr>
-	<tr>
-	  <td><strong>Deployment</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=vercel,netlify,render"/> 
-	  <img height=40 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg"/></td>
-	</tr>
-	<tr>
-	  <td><strong>Version Control</strong></td>
-	  <td><img height=40 src="https://skillicons.dev/icons?i=github,git&theme=dark"/></td>
-	</tr>
-</table>
-</div>
+<br/>
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
 <ul>
   <li>
-    <b> 📚 <a href="https://github.com/Sharyupatil01/GyaanShaala" target="_blank">Gyaan Shaala</a></b>  
-    <br/> Developed a scalable backend for an e-learning platform using Node.js, Express, and MongoDB, enabling secure authentication (JWT & bcrypt) and role-based access control for instructors and students.
+    <b>📚 <a href="https://github.com/Sharyupatil01/GyaanShaala" target="_blank">Gyaan Shaala</a></b><br/>
+    Scalable e-learning backend using Node.js, Express & MongoDB with JWT-based authentication and role-based access.
   </li>
   <br/>
   <li>
-    <b> 💹 <a href="https://github.com/Sharyupatil01/finpilot-frontend" target="_blank"> Fin-Pilot</a> | <a href="https://finpilot-alpha.vercel.app/">Live</a> </b>  
-    <br/>  FinPilot is an AI-powered financial planning assistant that helps users create personalized investment and savings strategies. This repository contains the frontend of the project, built with React, Material-UI, and TailwindCSS. <br>  
+    <b>💹 <a href="https://github.com/Sharyupatil01/finpilot-frontend" target="_blank">Fin-Pilot</a> |
+    <a href="https://finpilot-alpha.vercel.app/">Live</a></b><br/>
+    AI-powered financial planning assistant built using React, Material-UI & TailwindCSS.
   </li>
-	
   <br/>
   <li>
-    <b>🏥  <a href="https://github.com/Sharyupatil01/Patient-Appointment-Manager" target="_blank">Patient Appointment Manager</a></b>  
-    <br/> Hospital Management System is a web application built with MySQL to manage patient records, doctor schedules, appointments, treatments, and billing. It demonstrates real-world database operations like joins, aggregation.  
+    <b>🏥 <a href="https://github.com/Sharyupatil01/Patient-Appointment-Manager" target="_blank">
+    Patient Appointment Manager</a></b><br/>
+    Hospital management system using MySQL demonstrating joins, aggregation, and real-world DB operations.
   </li>
-  <br/>
-
 </ul>
 
-</td>
-</tr>
-</table>
+
+
+
+
+
+
 
 <br>
 
