@@ -1,6 +1,7 @@
 <div align="center">
-<img width="1744" height="720" alt="carbon (4)" src="https://github.com/Sharyupatil01/Sharyupatil01/blob/main/carbon%20(4).png" />
 
+
+<img width="1744" height="620" alt="carbon (5)" src="https://github.com/user-attachments/assets/95ae3bce-7b76-4717-ac59-ddf752cb9670" />
 
 
 </div>
