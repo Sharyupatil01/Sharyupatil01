@@ -4,6 +4,9 @@
 
 
 
+
+
+
 </div>
 
 <br>
@@ -148,8 +151,11 @@
     
   </tr>
 </table>
+<div align="center">
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sharyu01&theme=nightowl" alt="LeetCode Badges" />
 
+</div>
 
 
 	
@@ -181,6 +187,10 @@
 
 	
 </div>
+
+
+
+
 
 
 
