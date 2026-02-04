@@ -118,11 +118,31 @@
   </li>
 </ul>
 
+<hr>
+
+<h3> 🎢 My Continuous Learning Journey</h3>
+
+<table>
+
+<td> <p>
+🔗 <strong>Repository:</strong>
+<a href="https://github.com/Sharyupatil01/DSA-A2Z" target="_blank">
+A2Z  DSA Journey
+</a>
+</p></td>
 
 
+<td>
+<p>
+🔗 <strong>Repository:</strong>
+<a href="https://github.com/Sharyupatil01/sql-grind-" target="_blank">
+SQL Grind Journey
+</a>
+</p>
+</td>
+</table>
 
-
-
+<hr>
 
 
 <br>
