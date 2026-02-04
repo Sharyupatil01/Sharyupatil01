@@ -17,11 +17,12 @@
 
 
 <div >
-  <h1>Hey there!  I'm Sharyu Patil</h1>
+  <h1>Hey there!  I'm Sharyu Patil <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/></h1>
 	<p >
   <img src="https://komarev.com/ghpvc/?username=Sharyupatil01&label=Profile%20views&color=0e75b6&style=flat" alt="Sharyupatil01" />
 		<p align="center">
-  
+	
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
   <a href="https://www.linkedin.com/in/sharyupatil01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -49,20 +50,23 @@
    <a href="https://medium.com/@sharyu2701" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Render"/>
   </a>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
   
   
  
 </p>
 </p>
-<br></br>
 
+
+<h3>About Me  </h3>
+   
 
 <p>
-   🔷A <b>fourth-year</b> engineering student and an aspiring <b>Software developer </b> passionate about learning and building real-world applications.<br/>
-   🔷Solved <b>800+ DSA problems</b> across platforms like <b><a href="https://leetcode.com/u/sharyu01/" target= "_blank">Leetcode</a> , <a href="https://www.geeksforgeeks.org/profile/sharyup01" target="_blank">GeeksforGeeks</a> , <a href="https://www.codechef.com/users/psharyu01" target="_blank">Codechef</a> </b>and others.<br/>
-   🔷Actively strengthening my foundation in <b>Java, DSA, and backend development</b>.<br/>
-   🔷Write technical posts on <b>Medium</b>, simplifying system design concepts in easy-to-understand English.<br/>
-   🔷Actively share my learning journey on <b>LinkedIn</b> and enjoy solving real-world, people-centric problems.
+   A <b>fourth-year</b> engineering student and an aspiring <b>Software Developer </b> passionate about learning and building real-world applications.<br/>
+   Solved <b>800+ DSA problems</b> across platforms like <b><a href="https://leetcode.com/u/sharyu01/" target= "_blank">Leetcode</a> , <a href="https://www.geeksforgeeks.org/profile/sharyup01" target="_blank">GeeksforGeeks</a> , <a href="https://www.codechef.com/users/psharyu01" target="_blank">Codechef</a> </b>and others.<br/>
+   Actively strengthening my foundation in <b>Java, DSA, and backend development</b>.<br/>
+   Write technical posts on <b>Medium</b>, simplifying system design concepts in easy-to-understand English.<br/>
+   Actively share my learning journey on <b>LinkedIn</b> and enjoy solving real-world, people-centric problems.
   
 </p>
 
@@ -74,7 +78,9 @@
 
 
 ### 🛠️ Tech Stack
-
+<table>
+<td align="center">
+	
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -91,7 +97,8 @@
 ![Render](https://img.shields.io/badge/Render-5A3EE6?style=for-the-badge&logo=render&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0000000?style=for-the-badge&logo=python&logoColor=white)
 
-
+</td>
+</table>
 
 
 
