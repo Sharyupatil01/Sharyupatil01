@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
   </a>
    &nbsp;
-   <a href="https://medium.com/@sharyu2701" target="_blank">
+   <a href="https://medium.com/@sharyup01" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Render"/>
   </a>
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
