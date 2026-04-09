@@ -104,26 +104,82 @@
 
 <br/>
 
-<h3>🚀 Featured Projects</h3>
+<h2>🚀 Featured Projects </h2>
 
 <ul>
   <li>
     <b>📚 <a href="https://github.com/Sharyupatil01/GyaanShaala" target="_blank">Gyaan Shaala</a></b><br/>
-    Scalable e-learning backend using Node.js, Express & MongoDB with JWT-based authentication and role-based access.
+    <ul>
+   <b>Developed a MERN-based ed-tech backend managing users, courses, and enrollments.</b>
+  <li><b>Authentication:</b> Implemented secure JWT-based login/signup with OTP verification and bcrypt hashing.</li>
+  <li><b>API Testing:</b> Thoroughly tested all REST APIs using <b>Postman</b> to ensure reliability and proper request/response handling.</li>
+  <li><b>Payment Integration:</b> Integrated <b>Razorpay</b> for secure and seamless course purchase transactions.</li>
+  <li><b>Media Management:</b> Used <b>Cloudinary</b> to efficiently store and manage images, videos, and course assets.</li>
+  <li><b>Deployment:</b> Deployed the backend on <b>Render</b> with environment variables and production-ready configuration.</li>
+</ul>
   </li>
   <br/>
   <li>
     <b>💹 <a href="https://github.com/Sharyupatil01/finpilot-frontend" target="_blank">Fin-Pilot</a> |
     <a href="https://finpilot-alpha.vercel.app/">Live</a></b><br/>
-    AI-powered financial planning assistant built using React, Material-UI & TailwindCSS.
+   <ul>
+ <b>  Developed an AI-powered financial planning platform delivering personalized investment strategies.</b>
+  <li><b>AI Pipeline:</b> Built a modular AI assembly line using <b>LangChain </b>to generate accurate and structured financial plans.</li>
+  <li><b>Data Simulation:</b> Created a synthetic market data pipeline using <b>GBM (geometric brownian motion) </b>, supporting multiple asset classes and event-based simulations.</li>
+  <li><b>Evaluation System:</b> Designed a two-layer evaluation framework combining financial rules with LLM-based scoring for reliability.</li>
+  <li><b>Frontend Contribution:</b> Built UI using <b>React.js, Material UI, and Context API </b>; integrated a chatbot to simplify complex financial terminology and guide users.</li>
+  <li><b>Deployment:</b> Deployed full-stack app using <b>Vercel & Render</b> with CRON-based uptime management for consistent availability.</li>
+</ul>
   </li>
   <br/>
   <li>
-    <b>🏥 <a href="https://github.com/Sharyupatil01/Patient-Appointment-Manager" target="_blank">
-    Patient Appointment Manager</a></b><br/>
-    Hospital management system using MySQL demonstrating joins, aggregation, and real-world DB operations.
+    <b>🏥 <a href="https://github.com/Sharyupatil01/ZEN-TRACK" target="_blank">
+    Zen Track </a> | 
+    <a href="https://zen-track-sharyu-patil-s-projects.vercel.app/">Live</a></b><br/>
+    <ul>
+  <b> Built a high-performance MERN-based productivity system featuring a dynamic <i>Zen Score</i> to track real-time user performance.</b>
+  <li><b>Core Logic:</b> Designed a <b>weighted scoring algorithm</b> based on task priority and punctuality, with bonuses/penalties for on-time and overdue completions.</li>
+  <li><b>AI Planner:</b> Integrated <b>AI-powered</b> task generation to break down complex goals into structured, actionable subtasks.</li>
+  <li><b>System Design:</b> Implemented RESTful architecture with MongoDB atomic operations (<code>$inc</code>) to ensure accurate scoring and prevent race conditions.</li>
+  <li><b>Frontend Experience:</b> Developed a glassmorphic UI using <b>React.js, Tailwind CSS, and Framer Motion</b> with smooth animations and optimistic updates.</li>
+  <li><b>Authentication & Deployment:</b> Secured app with JWT-based auth and deployed using <b>Vercel</b> with scalable serverless architecture.</li>
+</ul>
+  </li>
+
+  </br>
+
+
+<li>
+    <b>🔍 <a href="https://github.com/Sharyupatil01/GitPeek" target="_blank">
+    Git Peek </a> | 
+    <a href="https://git-peek-jade.vercel.app//">Live</a></b><br/>
+    <ul>
+  
+  <b>Developed a lightweight GitHub profile explorer to fetch and display user details using the GitHub API.</b>
+  <li><b>Search Functionality:</b> Implemented dynamic username-based search to retrieve real-time profile data.</li>
+  <li><b>Data Display:</b> Showcased user bio, avatar, and public repositories with descriptions and direct links.</li>
+  <li><b>API Integration:</b> Utilized <b>Axios/Fetch API </b> for efficient data fetching and handling asynchronous requests.</li>
+  <li><b>UI/UX Design:</b> Built a responsive and clean interface using <b>Tailwind CSS </b> for better user experience.</li>
+  <li><b>Performance:</b> Optimized API calls and rendering for fast and seamless user interactions.</li>
+
+</ul>
+</br>
+
+ <li>
+    <b>🧑🏾‍⚕️ <a href="https://github.com/Sharyupatil01/Patient-Appointment-Manager" target="_blank">
+    Patient Management System</a> </b><br/>
+    <ul>
+  <b> Designed a relational database system using MySQL to manage patients, doctors, appointments, and billing.</b>
+  <li><b>Database Design:</b> Created normalized schemas with well-defined relationships between <b>departments, doctors, patients, and treatments.</b></li>
+  <li><b>Core Functionality:</b> Implemented <b>appointment scheduling, treatment tracking, and billing management</b> for real-world hospital workflows.</li>
+  <li><b>Advanced SQL:</b> Utilized <b>joins, aggregations, triggers, and stored procedures</b> to ensure efficient data processing and automation.</li>
+  <li><b>Data Insights:</b> Developed analytical queries for revenue reports, patient history, and appointment trends.</li>
+  <li><b>Project Structure:</b> Organized SQL scripts, sample data, and query results with clear documentation for easy setup and understanding.</li>
+</ul>
+</ul>
   </li>
 </ul>
+  
 
 <hr>
 
