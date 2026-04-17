@@ -203,6 +203,15 @@ SQL Grind Journey
 </a>
 </p>
 </td>
+
+<td>
+	<p>
+		🔗 <strong>Repository:</strong>
+		<a href="https://github.com/Sharyupatil01/dev-prompt-engineering" target="_blank">
+		Prompt Engineering for Developers 
+		</a>
+	</p>
+</td>
 </table>
 
 <hr>
